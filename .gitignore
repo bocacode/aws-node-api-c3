@@ -1,4 +1,4 @@
 node_modules
 yarn.lock
 .env
-aws-node-api.cer
+/aws-node-api.cer
